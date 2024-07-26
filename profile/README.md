@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Welcome to the OpenProBono github!
+
+Check out our repos and our websites
+  - openprobono.com
+  - blog.openprobono.com
+
+Check back soon for more updates!
+
 <!--
 
 **Here are some ideas to get you started:**
